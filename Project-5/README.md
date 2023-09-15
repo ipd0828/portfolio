@@ -1,6 +1,6 @@
 # Прогнозирование оттока клиентов телеком компании
 
-[Тетрадка ipynb](https://github.com/aq2003/Portfolio/)
+[Тетрадка ipynb](https://github.com/ipd0828/portfolio/blob/main/Project-5/Проект%20Телеком%20(2).ipynb)
 
 ## Описание проекта
 
