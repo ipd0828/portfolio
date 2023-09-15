@@ -1,4 +1,4 @@
-# Анализ текстов
+# Классификация отзывов (отбор токсичных)
 
 [Google Colab](https://drive.google.com/file/d/1EuVKONpoghtmZSUJZwy9x63ea8aha6G6/view?usp=sharing)    [ipynb](https://github.com/ipd0828/portfolio/blob/main/Project-4/Классификация%20отзывов.ipynb)
 
