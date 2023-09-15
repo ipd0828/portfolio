@@ -1,6 +1,6 @@
 # Прогноз количества заказов для сервиса такси
 
-[ipynb](https://github.com/)
+[ipynb](https://github.com/ipd0828/portfolio/blob/main/Project-3/Заказ%20такси%20-%20прогноз%20трафика.ipynb)
 
 ## Описание проекта
 
