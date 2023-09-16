@@ -1,6 +1,6 @@
 # Построение модели определения стоимости автомобиля
 
-[ipynb](https://github.com/ipd0828/portfolio/blob/main/Project-4/Классификация%20отзывов.ipynb)
+[ipynb](https://github.com/ipd0828/portfolio/blob/main/Project-6/Определение%20стоимости%20автомобиля.ipynb)
 
 ## Описание проекта
 
