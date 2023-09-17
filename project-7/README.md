@@ -1,6 +1,6 @@
 # Прогноз возраста посетителей
 
-[ipynb](https://github.com/ipd0828/portfolio/blob/main/Project-6/Определение%20стоимости%20автомобиля.ipynb)
+[ipynb](https://github.com/ipd0828/portfolio/blob/main/project-7/Определение%20возраста%20посетителя.ipynb)
 
 ## Описание проекта
 
