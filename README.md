@@ -1,6 +1,7 @@
 # О моем пути в Науку о данных (Data Science):
 ---
-## - Второе место на Хакатоне: [Проект команды](https://github.com/YandexhakatonR1/Hakaton_R1/tree/main) 
+## - 9 место на Хакатоне Samokat.tech :  [Мой проект](https://github.com/ipd0828/Hakaton_Samokat_tech) 
+## - 2 место на Хакатоне Компании R1: [Проект команды](https://github.com/YandexhakatonR1/Hakaton_R1/tree/main) 
 ## - Реализованная мной Модель по предсказанию отмены бронирования: [Посмотреть модель](https://booking.streamlit.app/)
 ## - Прошел интенсив GPT Week от Яндекса, создатели YandexGPT делились опытом и деталями работы больших языковых моделей. В качестве тестового задания проводил дообучение YandexGPT и суммаризацию 100 статей на Habr: [Сертификат о выполнении задания](https://github.com/ipd0828/portfolio/blob/main/136_ИванюгинНиколайНиколаевич.pdf)
 ## - 249 место среди более 4 тысяч участников на тренировках Young&&Yandex по ML: [Сертификат участника](https://github.com/ipd0828/portfolio/blob/main/YY249.pdf) 
